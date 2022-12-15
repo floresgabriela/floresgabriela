@@ -1,11 +1,11 @@
 <h1 align="center">Hello! I'm Gabriela 👑</h1>
-![Social banner for floresgabriela](https:/github.com/floresgabriela/floresgabriela/raw/main/assets/github-banner.png)
+![banner image for floresgabriela](https://github.com/floresgabriela/floresgabriela/raw/main/assets/github-banner.png)
 <h3>About Me</h3>
-#
+-----
 Nice to meet you! I'm a creative full-stack developer with a passion for front-end development and responsive design. Born, raised, and currently living in southern California. I'm currently attending a coding bootcamp where I'm learning and building projects in Python, Java, and MERN. Thanks for visiting!
-#
+-----
 <h3>Languages and Skills</h3>
-#
+-----
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
