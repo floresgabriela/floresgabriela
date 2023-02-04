@@ -8,7 +8,7 @@ Nice to meet you! I'm a creative full-stack developer with a passion for front-e
 
 🔭 I’m currently working on: my website!<br>🌱 I’m currently learning: TypeScript<br>💬 Ask me about: anything and everything CSS!<br>⚡ Fun fact: I love to read!
 
-##
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielareneflores) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gabidextrous)
 
 ## Languages and Skills
 
@@ -28,12 +28,6 @@ Nice to meet you! I'm a creative full-stack developer with a passion for front-e
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 </p>
 
-##
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielareneflores) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gabidextrous)
-
-##
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=floresgabriela&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
