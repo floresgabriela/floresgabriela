@@ -8,7 +8,7 @@ Nice to meet you! I'm a creative full-stack developer with a passion for front-e
 
 🔭 I’m currently working on: my website!<br>🌱 I’m currently learning: TypeScript<br>💬 Ask me about: anything and everything CSS!<br>⚡ Fun fact: I love to read!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielareneflores) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gabidextrous)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/g-flo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gabidextrous)
 
 ## Languages and Skills
 
